@@ -1,0 +1,1 @@
+# yai-novel-v2
